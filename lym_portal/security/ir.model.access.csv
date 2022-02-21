@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_lym_portal_agendamento,access_lym_portal_agendamento,model_lym_portal_agendamento,base.group_user,1,1,1,1
+access_lym_portal_formsagendamento,access_lym_portal_formsagendamento,model_lym_portal_formsagendamento,base.group_user,1,1,1,1
+access_lym_portal_servico,access_lym_portal_servico,model_lym_portal_servico,base.group_user,1,1,1,1 
+access_lym_portal_filapadrao,access_lym_portal_filapadrao,model_lym_portal_filapadrao,base.group_user,1,1,1,1
+access_lym_portal_filaprioridade,access_lym_portal_filaprioridade,model_lym_portal_filaprioridade,base.group_user,1,1,1,1
